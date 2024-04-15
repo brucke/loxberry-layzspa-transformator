@@ -1,0 +1,1 @@
+./layzspa.py { "my/topic" : "Meine Daten" }

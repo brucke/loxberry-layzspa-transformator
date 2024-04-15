@@ -1,0 +1,1 @@
+scp layzspa.py loxberry@loxberry:/opt/loxberry/bin/mqtt/transform/custom/udpin/layzspa/layzspa.py
